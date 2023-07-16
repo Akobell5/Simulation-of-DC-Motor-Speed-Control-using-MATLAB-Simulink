@@ -1,4 +1,4 @@
-# Simulation-of-DC-Motor-Speed-Control-using-MATLAB-Simulink
+# Simulation-of-DC-Motor-Speed-Control-For EV Application-using-MATLAB-Simulink
 This repository contains a MATLAB Simulink simulation file for a DC motor speed control system. The simulation is designed to demonstrate the control of a DC motor's speed using a proportional-integral (PI) controller.
 The DC motor speed control system consists of a DC motor, an encoder for speed measurement, a PI controller, and a reference speed input. The objective is to regulate the motor's speed based on the desired reference speed.
 
